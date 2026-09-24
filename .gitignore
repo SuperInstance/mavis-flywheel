@@ -1,3 +1,17 @@
 __pycache__/
 *.pyc
 *.egg-info/
+
+# added by commit-and-push-all
+*.pyd
+.pytest_cache/
+build/
+dist/
+.eggs/
+target/
+node_modules/
+.cache/
+.wrangler/
+.DS_Store
+*.log
+.env
